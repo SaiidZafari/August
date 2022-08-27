@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "august",
+    "libraryId": "d395b3ea-fa38-4373-8446-0834318ed341",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "august",
+    "solutionShortDescription": "august description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

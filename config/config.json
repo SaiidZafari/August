@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "august-end-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/augustEnd/AugustEndWebPart.js",
+          "manifest": "./src/webparts/augustEnd/AugustEndWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AugustEndWebPartStrings": "lib/webparts/augustEnd/loc/{locale}.js"
+  }
+}
